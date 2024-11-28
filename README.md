@@ -1,3 +1,6 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 # Signal-image-encoding-with-deep-TL-for-time-series-classification
 
 Citation: Kieran Woodward, Eiman Kanjo, and Athanasios Tsanas. 2024. Combining Deep Learning with Signal-image Encoding for Multi-Modal Mental Wellbeing Classification. ACM Trans. Comput. Healthcare 5, 1, Article 3 (January 2024), 23 pages. https://doi.org/10.1145/3631618
